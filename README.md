@@ -1,23 +1,23 @@
-# <Your product name>
+<Bastion Brief>
 
 > Fill this top section from your Examate project card on Day 1. Replace every line in angle brackets.
 
 ## Problem
-<3–5 sentences: who struggles with what today, and what your product changes.>
+<Consultants brief each client on current threats using European cybersecurity agency reports, mixed with each client's own incident notes and policies. Client-uploaded files can contain hidden instructions or personal data, and a careless AI tool can be tricked into leaking or obeying them>
 
 ## Who it is for
-<One or two real user types, for example "compliance officer at a gold-loan NBFC in Coimbatore".>
+<Threat-intelligence assistant for client security teams that stays safe even when a document tries to hijack it.>
 
 ## Signature feature
-<One sentence: the feature only your product has.>
+<Quarantine view that shows which uploaded pages were flagged as injection attempts or PII, and why.>
 
 ## Hardest problem (my interview story)
-<In your own words, from your project card.>
+<Prompt-injection and personal-data safety. Uploaded documents are scanned for injection patterns and PII (emails, phone numbers, Aadhaar-like numbers) and redacted before indexing, and retrieved text is passed to the model as quoted data, never as instructions. A red-team set of 80 poisoned documents measures how often the model is hijacked.>
 
 ## Dataset
 | Source | Link | Documents | Pages | Licence / terms |
 |---|---|---|---|---|
-| <name> | <url> | <n> | <n> | <licence> |
+| <ENISA Threat Landscape 2026_Final.pdf> | <https://www.enisa.europa.eu/sites/default/files/2026-09/ENISA%20Threat%20Landscape%202026_Final.pdf> | <.pdf> | <101> | <© European Union Agency for Cybersecurity (ENISA), 2026> |
 
 ## 10 real questions
 See [docs/QUESTIONS.md](docs/QUESTIONS.md).
