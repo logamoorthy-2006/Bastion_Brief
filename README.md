@@ -1,9 +1,9 @@
 Bastion Brief
 
-> Fill this top section from your Examate project card on Day 1. Replace every line in angle brackets.
+
 
 ## Problem
-Consultants brief each client on current threats using European cybersecurity agency reports, mixed with each client's own incident notes and policies. Client-uploaded files can contain hidden instructions or personal data, and a careless AI tool can be tricked into leaking or obeying them
+>Consultants brief each client on current threats using European cybersecurity agency reports, mixed with each client's own incident notes and policies. Client-uploaded files can contain hidden instructions or personal data, and a careless AI tool can be tricked into leaking or obeying them
 
 ## Who it is for
 Threat-intelligence assistant for client security teams that stays safe even when a document tries to hijack it.
